@@ -4,4 +4,4 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/Data_Story
+- file: docs/datastory
