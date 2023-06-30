@@ -4,5 +4,5 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/datastory_8
+- file: docs/datastory
 - file: docs/clean
